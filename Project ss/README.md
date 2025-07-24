@@ -28,9 +28,7 @@ project-working-screenshots/
 | `Home page1.png`            | Initial user landing experience              |
 | `home page2.png`            | Main homepage layout                         |
 | `Picture1.png`              | Data input form (user interaction)           |
-| `Charts.png, bar graph.png,`| Static informational/contact section         |
-|`nutrtionrecommendation.png,`|                                              |
-| `meal plan.png`             |                                              |
+| `Charts.png, bar graph.png,nutrtion recommendation.png, meal plan.png`| Static informational/contact section         |                                              
 | `recommendation-output.png` | Final output page with recommendations shown |
 
 ## 🎯 Purpose
